@@ -1,4 +1,4 @@
-        body {
+body {
             display: flex;
             align-items: center;
             min-height: 100vh;        /* not height — allows growth */
@@ -150,7 +150,7 @@
             font-family: monospace;
             color: rgba(168, 167, 167, 0.786);
         }
-        .error-message, .invalid-entry{
+        .error-message, .invalid-entry {
             font-family: monospace;
             color: rgba(168, 167, 167, 0.786);
             font-size: medium;
