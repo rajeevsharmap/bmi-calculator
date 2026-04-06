@@ -17,7 +17,7 @@ body {
             align-items: center;
             margin: 0 auto;
             border: 0.5px solid grey;
-            width: clamp(400px,25vw,500px);
+            width: clamp(340px,25vw,500px);
             border-radius: 15px;
         }
 
