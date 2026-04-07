@@ -56,7 +56,7 @@ body {
             transform: translateY(-1px);
         }
 
-        input[type="text"] {
+        input[type="number"] {
             border: 0.5px solid grey;
             border-radius: 8px;
             padding: 12px;
@@ -68,7 +68,7 @@ body {
             /* removes default browser focus ring */
         }
 
-        input[type="text"]:focus {
+        input[type="number"]:focus {
             border-color: grey;
             box-shadow: 0 20px 60px #152331;
         }
